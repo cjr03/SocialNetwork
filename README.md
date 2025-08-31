@@ -46,7 +46,7 @@ This project demonstrates graph algorithms, object-oriented design, and a Qt GUI
 
 | Login Screen | Profile View | Adding Friends |
 |--------------|--------------|---------------------|
-| ![Login](docs/login.png) | ![Profile](docs/logged_in.png) | ![Adding friends](docss/add_friend.gif) |
+| ![Login](docs/login.png) | ![Profile](docs/logged_in.png) | ![Adding friends](docs/add_friend.gif) |
 
 ---
 
