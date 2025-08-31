@@ -74,14 +74,14 @@ This project demonstrates graph algorithms, object-oriented design, and a Qt GUI
 │   ├── mainwindow.cpp
 │   └── main.cpp
 │
-├── resources/            # Input data, icons, screenshots
+├── resources/            # Input data
 │   ├── social_network.txt
 │   └── posts.txt
 │
 ├── tests/                # Unit tests
 │   └── test_network.cpp
 │
-├── docs/              # Header files
+├── docs/              # Screenshots & GIF
 │   ├── login.png
 │   ├── logged_in.png
 │   └── add_friend.gif
