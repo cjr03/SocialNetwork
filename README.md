@@ -15,7 +15,7 @@ This project demonstrates graph algorithms, object-oriented design, and a Qt GUI
 - [Project Structure](#Project-Structure)
 - [Getting Started](#Getting-Started)
 - [Testing](#Testing)
-- [Future Improvements](#Future_Improvements)
+- [Future Improvements](#future-improvements)
 
 ---
 
